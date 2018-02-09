@@ -1,0 +1,27 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.header img
+{
+    margin-left: 80px;
+  
+}
+.features h3
+{
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+.arranging
+{
+    text-align: justify;
+
+}
+.features i
+{
+    font-size: 40px;
+    color: #e67e22;
+    margin-left: 10px;
+}

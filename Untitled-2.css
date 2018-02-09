@@ -1,0 +1,102 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.row
+{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.logo img
+{
+ margin-top: 10px;  
+    width: 40%;
+    float: left;
+}
+body
+{
+    font-family: tahoma;
+}
+.suraj
+{
+    position: absolute;
+    width: 1140px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+}
+header
+{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(shivaji-maharaj-pencil-art-with-orange-background-hd-wallpaper-download.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+.gap
+{
+    margin-top: 40px;
+}
+.form
+{
+
+    margin-top: 40px;
+}
+.h3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
